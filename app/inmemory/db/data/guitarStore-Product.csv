@@ -1,0 +1,6 @@
+ID;productName;productDescription;price;warehouse_ID;discount_ID
+0d74db39-c094-4862-9fc8-6c47112ace7b;Fender Stratocaster;A classic electric guitar;1200.00;701fa1ef-38d9-43f6-92cd-4b60ce5a1008;312a2e0a-3cd3-410f-811b-140b2631d607
+98580067-43b8-4ede-99c2-eab18e94fa43;Gibson Les Paul;A high-end electric guitar;2500.00;5f9fb421-9c93-4cbb-89e1-5a6f9e9372df;f22f6c1a-9a3b-4f0a-a459-be91bb404a85
+c6056701-b4ae-48fd-bf56-719d7556d1fb;Ibanez RG;A versatile electric guitar;800.00;9e098cf7-6cbe-4256-a94e-659513b4a34d;e7b280cc-aba9-415e-834d-b8fd6df74e2f
+9bd27005-bda7-42ec-a332-26b89ea57a1f;Martin D-28;A high-quality acoustic guitar;3000.00;fb67823b-b82a-41d4-aafd-31a7213922e5;6475d432-8ee2-470a-8f46-0374e865c810
+6e4a2d41-d01f-4feb-8b3f-9c2c16045e10;Taylor 814ce;A premium acoustic-electric guitar;3500.00;7fd158be-ada4-4091-b0b2-d5567122c2a7;b291d14f-eb48-4f0c-bb98-caf4c585982f
